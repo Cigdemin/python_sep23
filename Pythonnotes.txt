@@ -15,5 +15,17 @@ substract (-)
 multiplication (*) 
 division (/) ---> returns float number ex: print(15/7) :3.75
 intiger division (//) ---> returns intiger, but it always gives lowest number ex: print(15/7) :3
-modulus(%) ---> 
-power(**)
+modulus(%) ---> remainder ex: print(15/7) :2
+power(**) ---> ex: print(5 ** 2) :25
+
+
+String Data Types: Text data
+" " 
+' '
+""" """ or ''' '''
+
+to assign an input/answer to a variable : var1 = input("What do yo wan to ask:")
+
+to get intiger value from an output int(...)
+to get float value from an output float(...)
+to get string value from an output str(...)
