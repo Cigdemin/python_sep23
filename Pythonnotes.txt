@@ -1,0 +1,19 @@
+variable names can not be started number
+for, if can not be assign to variables
+
+Data types: 
+-intiger : whole number (without decimal point 1,2,3)
+-float: decimal point number (1,23)
+-boolean: 0 false | 1 true
+-string: text
+-list, sets, dictinaries, tuples
+
+
+Intiger data types: support mathematical operators 
+Addition(+) 
+substract (-)
+multiplication (*) 
+division (/) ---> returns float number ex: print(15/7) :3.75
+intiger division (//) ---> returns intiger, but it always gives lowest number ex: print(15/7) :3
+modulus(%) ---> 
+power(**)
