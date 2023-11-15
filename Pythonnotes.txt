@@ -29,3 +29,14 @@ to assign an input/answer to a variable : var1 = input("What do yo wan to ask:")
 to get intiger value from an output int(...)
 to get float value from an output float(...)
 to get string value from an output str(...)
+
+# string = "hello world"
+# print(string) #hello world
+# print(string[6]) #w
+# print(string[-1]) #d
+# print(string[0:5]) #hello
+# print(string[-5:]) #world
+# print(string[:6]) #hello 
+
+age=int(input("Please provide your age "))
+print("your age is", age , "nice to meet you", sep" || ", end " ||||  This is the ending")
