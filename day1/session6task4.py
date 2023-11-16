@@ -1,0 +1,7 @@
+print("here we are creating our own ARN for AWS please input for the varialbles asking below!")
+partition=str(input("Please input a text for partition: "))
+service=str(input("Please input a text for service: "))
+region=str(input("Please input a text for region: "))
+account_id=int(input("Please input an number for account ID: "))
+resource_id=int(input("Please input an number for resource ID: "))
+print("arn",partition,service,region,account_id,resource_id, sep=":")
