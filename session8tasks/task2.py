@@ -21,4 +21,4 @@ largest_num = 0
 for n in num_list:
     if n > largest_num :
         largest_num = n
-print(f"The largest num in the list is: {largest_num}")
+print(f"The largest number in the list is: {largest_num}")
